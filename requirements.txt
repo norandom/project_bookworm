@@ -1,0 +1,10 @@
+openai==1.13.3
+langchain==0.1.10
+pinecone-client==3.1.0
+python-dotenv==1.0.1
+tiktoken==0.6.0
+wikipedia==1.4.0
+pypdf==4.0.2
+langchain_openai==0.0.8
+langchain_experimental==0.0.53
+langchainhub==0.1.14
