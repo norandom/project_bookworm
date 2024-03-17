@@ -1,6 +1,10 @@
 # Don't read this
 
 
+[Writeup](https://because-security.atlassian.net/wiki/spaces/LML/pages/73630269/LangChain+GPT-4+Embeddings+and+sqlite-vss+as+a+vector+db)
+
+Follow the sub-pages for more. 
+
 ## Local install w conda
 
 ```
