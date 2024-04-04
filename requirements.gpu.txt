@@ -11,12 +11,13 @@ langchainhub==0.1.14
 ipywidgets
 cryptography==42.0.5
 pikepdf==8.13.0
+html2text==2024.2.26
 transformers==4.39.0
 torch
 torchvision
 torchaudio
 sentence-transformers==2.5.1
 sqlite-vss==0.1.2
-
+faiss_cpu==1.8.0
 
 
